@@ -92,6 +92,7 @@ lib/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Femlight/iconic.git
+   git checkout -master
    cd iconic_university
    ```
 

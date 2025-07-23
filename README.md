@@ -75,7 +75,7 @@ lib/
 - **Camera**: image_picker, camera packages
 - **Location**: location package
 - **Architecture**: Clean Architecture
-- **Error Handling**: d (Either type)
+- **Error Handling**: dartz (Either type)
 
 ## 🚀 Getting Started
 
@@ -91,7 +91,7 @@ lib/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Femlight/iconic.git
    cd iconic_university
    ```
 
